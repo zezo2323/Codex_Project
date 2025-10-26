@@ -1,9 +1,4 @@
-# 🎓 Student Results Management System (Full Version)
 
-A complete **JavaFX desktop application** built using **Java**, **MySQL**, and **MVC architecture**.
-This project manages student data, courses, and academic results with a modern UI and secure backend.
-
----
 
 ## 🧩 Overview
 
